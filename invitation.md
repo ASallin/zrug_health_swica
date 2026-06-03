@@ -25,10 +25,6 @@ Join us for an exciting, multi-faceted evening on analytics in healthcare, and f
 
 Reto Jörg and Jonathan Zufferey are both researchers at the Swiss Health Observatory (Obsan), where they work on the Swiss Health Care Atlas, a national platform tracking regional variations in healthcare use across more than 100 indicators. They will present together on how Obsan uses R for health policy planning, including their recent work on cantonal reports and a DuckDB-powered data pipeline.
 
-Reto Jörg is a researcher at the Obsan, where he leads the Swiss Health Care Atlas [link], a national platform tracking regional variations in healthcare use across more than 100 indicators. He studied political science at the universities of Bern and Lund and holds a postgraduate diploma in applied statistics from ETH Zürich. Before joining Obsan in 2018, he worked as a consultant advising the federal government, cantons, and NGOs on health and social policy questions.
-
-Jonathan Zufferey is a researcher at Obsan working on health data analysis, including the data pipeline behind the Swiss Health Care Atlas. He holds a PhD in demography from the University of Geneva, where he wrote his dissertation on mortality inequalities between Swiss and migrant populations, and subsequently spent four years as a postdoc in the NCCR "On the Move" research programme.
-
 <br>
 
 ## Keynote 2: R saves lives: predicting transplant
