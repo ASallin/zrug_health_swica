@@ -16,14 +16,18 @@ Join us for an exciting, multi-faceted evening on analytics in healthcare, and f
 
 <br>
 
-## Keynote 1: R for health policy planning: OBSAN and cantonal reports
+## Keynote 1: R for health policy planning - from Copy-Paste to Pipelines
 
-[TODO Reto/Jonathan: change the title for your title, add a short summary of your talk, check your bios]
+Jonathan Zufferey is a demographer by training and holds a PhD from the University of Geneva. Reto Jörg is a political scientist with a postgraduate diploma in applied statistics from ETH Zürich. Both work as senior researchers at the Swiss Health Observatory (Obsan), where they spend their days turning large amounts of healthcare data into somewhat smaller amounts of insight. Together, they are responsible for the Swiss Health Care Atlas, a national platform tracking regional variations in healthcare use across more than 100 indicators. In their joint talk, they present two further use cases showing how they use R to automate health reporting and build scalable data pipelines:
 
-1. Cantonal reports
-2. DuckDB
+#### Cantonal health reports
+Every five years, the Swiss Health Observatory (Obsan) produces analyses based on the Swiss Health Survey (SHS), providing each canton with detailed insights into the population's health status, health behaviours, and healthcare utilisation.
+In the past, these analyses were published in reports that were painstakingly created by exporting SAS analyses into Excel and then manually inserting them into Word — a tedious process that had to be replicated for every single canton. In 2024, we transitioned to a fully integrated and automated workflow using R and Excel. This shift enabled us to simultaneously generate both a [web-based output] (kgr.obsan.ch) and a pdf report. 
+This presentation reviews our journey and the methodology we adopted.
 
-Reto Jörg and Jonathan Zufferey are both researchers at the Swiss Health Observatory (Obsan), where they work on the Swiss Health Care Atlas, a national platform tracking regional variations in healthcare use across more than 100 indicators. They will present together on how Obsan uses R for health policy planning, including their recent work on cantonal reports and a DuckDB-powered data pipeline.
+#### Primary Care Monitoring System
+This project examines regional disparities in access to primary care services in Switzerland using a Floating Catchment Area (FCA) approach developed by the Obsan. Healthcare provider capacity is estimated from health insurance claims data, while healthcare demand is modelled using population characteristics and commuter flows. Accessibility is assessed using travel times derived from road network data.
+The presentation will highlight selected preliminary findings while focusing on the technical challenges given the existing infrastructure at the Obsan and discuss how DuckDB was leveraged to efficiently process large-scale data.
 
 <br>
 
