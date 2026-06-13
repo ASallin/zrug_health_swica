@@ -50,11 +50,11 @@ In this talk, I present the KIDMO project (Kidney Prediction Model), a statistic
 - Place: **Hotel Banana City, Winterthur**
 
   - 18:30 opening doors, registration
-  - 19:00 Introduction (asa, sereina)
-  - 19:05 Talk Eva
-  - 19:15 Talk Obsan (20mn + 10mn questions)
-  - 19:45 Talk Simon (20mn + 10mn questions)
-  - 20:15 apero
+  - 18:45 Introduction (asa, sereina)
+  - 18:50 Talk Eva
+  - 19:00 Talk Obsan (30mn + 10mn questions)
+  - 19:40 Talk Simon (20mn + 10mn questions)
+  - 20:10 apero
   - 21:30 closing
 
 
