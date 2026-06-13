@@ -1,10 +1,10 @@
 # R meets Health: Meetup @ SWICA
 
-[TODO asa/sereina] The Zürich R User Group is happy to invite you to its next meetup on **R meets Health**. The meetup is generously sponsored and hosted by SWICA Organisation de Santé in Winterthur. 
+The Zürich R User Group is happy to invite you to its next meetup on **R meets Health**. The meetup is generously sponsored and hosted by SWICA Organisation de Santé in Winterthur. 
 
 ## R and Health
 
-[TOPOLISH asa/sereina] Switzerland has some of the best health outcomes in the world and one of the most expensive systems to run. Making better use of health data is central to improving population health and keeping costs in check, and R plays a growing role in both.
+Switzerland has some of the best health outcomes in the world and one of the most expensive systems to run. Making better use of health data is central to improving population health and keeping costs in check, and R plays a growing role in both.
 
 This evening, we look at R and healthcare from three angles: how a major health insurer uses data to shift towards value-based care, how the Swiss Health Observatory uses R to plan and allocate resources across cantons, and how Swisstransplant uses statistical modelling to understand and predict organ transplants.
 
@@ -14,11 +14,11 @@ Join us for an exciting, multi-faceted evening on analytics in healthcare, and f
 
 ## R for an efficient and qualitative health care system
 
-[TODO asa]Eva Blozik, Head of the Healthcare Management at SWICA, will be opening the evening with a brief introduction on how data are used to improve our healthcare system. She will explain the importance of sound data analysis for value in healthcare from an insurance perspective.
+Eva Blozik, Head of the Healthcare Management at SWICA, will be opening the evening with a brief introduction on how data are used to improve our healthcare system. She will explain the importance of sound data analysis for value in healthcare from an insurance perspective.
 
 <br>
 
-## Joint keynote talk 1: R for health policy planning - from Copy-Paste to Pipelines (Jonathan Zufferey and Reto Jörg, OBSAN)
+## Talk 1 (Joint Keynote): R for health policy planning - from Copy-Paste to Pipelines (Jonathan Zufferey and Reto Jörg, OBSAN)
 
 #### Cantonal health reports
 Every five years, the Swiss Health Observatory (Obsan) produces analyses based on the Swiss Health Survey (SHS), providing each canton with detailed insights into the population's health status, health behaviours, and healthcare utilisation.
@@ -35,7 +35,7 @@ The presentation will highlight selected preliminary findings while focusing on 
 
 <br>
 
-## Keynote 2: R for predicting kidney transplant success ([Simon Schwab](https://www.statsyup.org/), Swisstransplant)
+## Talk 2 Keynote: R for predicting kidney transplant success ([Simon Schwab](https://www.statsyup.org/), Swisstransplant)
 
 In Switzerland, 292 deceased-donor kidney transplants were performed in 2025, while over 880 patients remained on the national waiting list at the end of the year. Although kidney transplantation has excellent outcomes, graft loss remains a major concern for patients and clinicians.
 In this talk, I present the KIDMO project (Kidney Prediction Model), a statistical model to predict graft loss. I will explain the model development and validation pipeline. I also demonstrate how these clinical prediction models can be translated into practical tools, including an R package and an online risk calculator built with Shiny, Quarto, and Posit Connect Cloud. The full workflow is simple, reproducible, and based entirely on freely available tools.
@@ -50,11 +50,11 @@ In this talk, I present the KIDMO project (Kidney Prediction Model), a statistic
 - Place: **Hotel Banana City, Winterthur**
 
   - 18:30 opening doors, registration
-  - 19:00 Introduction (asa, sereina)
-  - 19:05 Talk Eva
-  - 19:15 Talk Obsan (20mn + 10mn questions)
-  - 19:45 Talk Simon (20mn + 10mn questions)
-  - 20:15 apero
+  - 18:45 Introduction (asa, sereina)
+  - 18:50 Talk Eva
+  - 19:00 Talk Obsan (30mn + 10mn questions)
+  - 19:40 Talk Simon (20mn + 10mn questions)
+  - 20:10 apero
   - 21:30 closing
 
 
